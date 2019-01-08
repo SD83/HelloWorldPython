@@ -26,3 +26,4 @@ class Student:
 
 print(Student.school_name)
 
+
